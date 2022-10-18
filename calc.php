@@ -1,6 +1,7 @@
 <?php
     $numero = $_POST['txtnumero'];
-    $divisor = $_POST['txtdivisor'];
+    Antecessor e Posterior
+            Antecessor e Posterior
     $cont = 0;
     while ($numero >= $divisor) {
         $cont++;
